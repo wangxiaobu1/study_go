@@ -1,2 +1,2 @@
 # study_go
-* nomber one
+* class 1
